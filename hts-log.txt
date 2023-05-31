@@ -1,0 +1,158 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 May 2023 21:40:33 at https://www.stockwebull.co.uk +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+stockwebull
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.capitalclime.com -O1 "C:\My Web Sites\stockwebull" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,stockwebullstockwebull
+stockwebullstockwebullstockwebullstockwebull
+	such as username/password authentication for websites mirrored in this projectstockwebullstockwebullstockwebull
+stockwebullstockwebullstockwebullstockwebullstockwebull
+	do not share these files/folders if you want these information to remain privatestockwebullstockwebull
+stockwebullstockwebull
+stockwebullstockwebull
+stockwebullstockwebull
+21:45:11	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/cpojllulswv8yspsrdztthmkilstockwebullrom hstockwebullapitalclime.com/capitalclime.com/index.html)
+stockwebullstockwebull
+21:45:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.capitalclime.com/capitalclime.com/login (from https://www.capitalclime.com/capitalclime.com/copytradstockwebullstockwebull
+stockwebullstockwebull
+21:45:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.capitalclime.com/cdnjs.cloudflare.com/ajax/libs/font-awstockwebull/css/stockwebull(from https://www.capitalclime.com/capitalclime.com/copytrading.html)
+stockwebullstockwebull
+21:47:43	Error: 	"Not Found" (404) at link https://www.capitalclime.com/capitalclime.com/assets/templates/basic/newfront/13519515_capitalclistockwebull0__.pstockwebullps://www.capitalclime.com/capitalclime.com/page/about.html)
+stockwebullstockwebull
+21:47:43	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link ./assets/images/logoIcon/favicon.png (fstockwebullwww.cstockwebullcom/capitalclime.com/login.html)
+stockwebullstockwebull
+21:47:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/logo.png (from https://www.capitalclimstockwebulllclimstockwebullhtml)
+stockwebullstockwebull
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockwebullress: No such host is known. ) at link https://captalclimestockwebullimagestockwebull4a6eaf71658938442.jpeg (from https://www.capitalclime.com/capitalclime.com/login.html)
+stockwebullstockwebullstockwebull
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockwebullress: unknown error) at link ./login_files/app.css (from https://www.capitalclime.com/capitstockwebullloginstockwebull
+stockwebullstockwebullstockwebull
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockwebullress: unknown error) at link ./login_files/blank.min.css (from https://www.capistockwebull/capistockwebull/login.html)
+stockwebullstockwebullstockwebull
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockwebullress: unknown error) at link ./login_files/style.css (from https://www.capitstockwebullcapitstockwebulllogin.html)
+stockwebullstockwebullstockwebull
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockwebullress: unknown error) at link https://captalclime.com/assets/templates/basic/newfront/png/heastockwebull (frostockwebullw.capitalclime.com/capitalclime.com/login.html)
+stockwebullstockwebullstockwebull
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockwebullress: unknown error) at link ./login_files/googlelogo_color_42x16dpstockwebullttps:stockwebulllclime.com/capitalclime.com/login.html)
+stockwebullstockwebullstockwebull
+21:47:48	Warning: 	Retry after error -5 (Unable to get stockwebullress: unknown error) at link ./login_files/iziToast.min.css (from https://www.capstockwebullm/capstockwebullm/login.html)
+stockwebullstockwebullstockwebull
+21:47:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/translate_24dp.png (from https://www.capitalclime.com/capitastockwebullogin.stockwebull
+stockwebullstockwebull
+21:47:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/logo.png (from https://wstockwebullime.cstockwebullime.com/register.html)
+stockwebullstockwebull
+21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/app.css (from https://wstockwebullime.cstockwebullime.com/register.html)
+stockwebullstockwebull
+21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/blank.min.css (from httpsstockwebullalclistockwebullalclime.com/register.html)
+stockwebullstockwebull
+21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/googlelogo_color_42x16dp.png (from https://wstockwebullime.cstockwebullime.com/register.html)
+stockwebullstockwebull
+21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/iziToast.min.css (from https://wwwstockwebulle.comstockwebulle.com/register.html)
+stockwebullstockwebull
+21:47:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/translate_24dp.png (from hstockwebullapitastockwebullapitalclime.com/register.html)
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/images/logoIcon/favicon.png (from https://www.capitalclime.com/capitalclime.com/dstockwebull)stockwebull
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/css/vendors.min.css (from https://wwstockwebullme.costockwebullme.com/document.html)
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/css/charts/apexcharts.css (from httstockwebullitalcstockwebullitalclime.com/document.html)
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/css/extensions/toastr.min.css (from https://www.capitalclime.com/capistockwebull/docustockwebull
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/bootstrap.min.css (from https:stockwebulllclimstockwebulllclime.com/document.html)
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/bootstrap-extended.min.css (from https://www.capitalclime.com/capitalclime.comstockwebullml)stockwebull
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/colors.min.css (from https://www.stockwebull.co.uk/stockwebull.co.uk/document.html)
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/dark-layout.min.css (stockwebull/www.stockwebull.co.uk/capitalclime.com/document.html)
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/bordered-layout.min.css (fstockwebullwww.cstockwebullcom/capitalclime.com/document.html)
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/semi-dark-layout.min.css (frostockwebullw.capstockwebullm/capitalclime.com/document.html)
+stockwebullstockwebull
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/assets/css/style.css (from https://www.capitalclime.com/capitalclime.com/document.html)
+
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/vendors/js/vendors.min.js (from https://www.capitalclime.com/capitalclime.com/document.html)
+
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/js/core/app-menu.min.js (from https://www.capitalclime.com/capitalclime.com/document.html)
+
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/js/core/app.min.js (from https://www.capitalclime.com/capitalclime.com/document.html)
+
+21:47:49	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/cpojllulswv8yspsrdztthmkilfzclsy.js (from https://www.capitalclime.com/capitalclime.com/index.html)
+
+21:47:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/images/logoIcon/favicon.png (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/logo.png (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://captalclime.com/assets/images/seo/62e1644a6eaf71658938442.jpeg (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/app.css (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/blank.min.css (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/style.css (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://captalclime.com/assets/templates/basic/newfront/png/header-bg-3.png (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/googlelogo_color_42x16dp.png (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/iziToast.min.css (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./login_files/translate_24dp.png (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/logo.png (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/app.css (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/blank.min.css (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/googlelogo_color_42x16dp.png (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/iziToast.min.css (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./register_files/translate_24dp.png (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/cpojllulswv8yspsrdztthmkilfzclsy.js (from https://www.capitalclime.com/capitalclime.com/index.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./assets/images/logoIcon/favicon.png (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./login_files/logo.png (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://captalclime.com/assets/images/seo/62e1644a6eaf71658938442.jpeg (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./login_files/app.css (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./login_files/blank.min.css (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./login_files/style.css (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://captalclime.com/assets/templates/basic/newfront/png/header-bg-3.png (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./login_files/googlelogo_color_42x16dp.png (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./login_files/iziToast.min.css (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./login_files/translate_24dp.png (from https://www.capitalclime.com/capitalclime.com/login.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./register_files/logo.png (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./register_files/app.css (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./register_files/blank.min.css (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./register_files/googlelogo_color_42x16dp.png (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./register_files/iziToast.min.css (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+21:47:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./register_files/translate_24dp.png (from https://www.capitalclime.com/capitalclime.com/register.html)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 21 seconds : 319 links scanned, 250 files written (29042463 bytes overall) [24700013 bytes received at 56009 bytes/sec], 5924620 bytes transferred using HTTP compression in 122 files, ratio 23%, 7.2 requests per connection
+
+(32 errors, 36 warnings, 0 messages)
+
