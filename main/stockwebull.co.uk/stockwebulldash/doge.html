@@ -220,19 +220,29 @@
 
 <div class="sidebar sidebar-style-2" data-background-color="dark">
     <div class="scroll-wrapper sidebar-wrapper scrollbar scrollbar-inner" style="position: relative;"><div class="sidebar-wrapper scrollbar scrollbar-inner scroll-content" style="height: 688.008px; margin-bottom: 0px; margin-right: 0px; max-height: none;">
+        
         <div class="sidebar-content">
             <div class="user">
                 <div class="info">
-                    <a data-toggle="collapse" href="./dashboard.html/payment#collapseExample" aria-expanded="true">
-                        <span>
-                            testuser
+                    <a data-toggle="collapse" href="" aria-expanded="true">
+                        <span id="username">
+                            
                             
                             <span class="caret"></span>
                         </span>
                     </a>
                     <div class="clearfix"></div>
-                    <div class="collapse in" id="collapseExample">
-                        <ul class="nav nav-primary">
+                    <div class="nav nav-primary">
+                        
+                            
+                                <a href="./livetrade.html" class=" btn  btn-sm nav-item active">Status:<span id="stat2">On Standby</span><span class="blink_me"></span> </a>
+               
+                            
+                        
+                    </div>
+                </div>
+            </div>
+            <ul class="nav nav-primary">
                 <li class="nav-item active">
                     <a href="./dashboard.html">
                         <i class="fas fa-home"></i>
@@ -277,7 +287,7 @@
                                 Account settings
                                 </a>
                                 <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
-                                  <a class="dropdown-item bg-dark" href="./password.html">Password settings</a>
+                                  <a class="dropdown-item bg-dark" href="./updatepassword.html">Password settings</a>
                                   <a class="dropdown-item bg-dark" href="./withdrawalsetting.html">Withdrawal settings</a>
                                   <a class="dropdown-item bg-dark" href="./settings.html">profile settings</a>
                                 
@@ -307,6 +317,7 @@
     </div><div class="scroll-element scroll-x"><div class="scroll-element_outer"><div class="scroll-element_size"></div><div class="scroll-element_track"></div><div class="scroll-bar ui-draggable ui-draggable-handle" style="width: 0px;"></div></div></div><div class="scroll-element scroll-y"><div class="scroll-element_outer"><div class="scroll-element_size"></div><div class="scroll-element_track"></div><div class="scroll-bar ui-draggable ui-draggable-handle" style="height: 0px;"></div></div></div></div>
 </div>
 <!-- End Sidebar -->
+
         <div class="main-panel bg-dark">
 			<div class="content bg-dark">
 				<div class="page-inner">
@@ -531,8 +542,8 @@
             error:  function (error) {
                 
 										alert('Error Submiting Payment Data');
-										console.log(error);
-                                        red()
+		         red();								console.log(error);
+                               
 									}
             // function (xhr, status, error) {
             //   console.log(error);
