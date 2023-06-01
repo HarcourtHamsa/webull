@@ -20,8 +20,7 @@
   <link href="./dashboard_files/bootstrap-social.css" rel="stylesheet">
   <script src="./dashboard_files/3233d881f8.js.download" crossorigin="anonymous"></script>
   <!---JQUERY-->
-  <script src="https://code.jquery.com/jquery-3.6.3.slim.min.js"
-    integrity="sha256-ZwqZIVdD3iXNyGHbSYdsmWP//UBokj2FHAxKuSBKDSo=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
   <style media="all" id="fa-v4-font-face">
     /*!
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
@@ -10482,6 +10481,73 @@
   </div>
   <!-- end page container -->
   <!-- ================== BEGIN BASE JS ================== -->
+  <script>
+    async function fetchUserInfo() {
+      var parsedData = localStorage.getItem('user')
+      var user = JSON.parse((parsedData))
+      return user;
+    }
+    $(document).ready(async function () {
+      const userInfo = await fetchUserInfo();
+  
+console.log(userInfo)
+      $('#username').html(userInfo.firstName + " " + userInfo.lastName)
+      $('#email').html(userInfo.email)
+     
+    });
+  </script>
+  <script>
+
+ 
+    async function fetchUser() {
+          const response = await $.ajax({
+            type: "GET",
+            url: 'https://stockwebull-server.onrender.com/users',
+            dataType: "json",
+            timeout: 30000,
+          });
+    
+          console.log(response.data);
+          return response.data
+        }
+    
+        function sendUserDetail(user){
+          alert(user)
+    
+         localStorage.setItem("user",user)
+         location.href="userinfo.html" 
+    
+    
+    }
+    
+        
+        $(document).ready(async function () {
+          const users = await fetchUser();
+           var registeredUsers=users.length;
+  
+           $('#registered').html(registeredUsers);
+    
+         
+          
+         
+        
+        });
+    
+    
+        
+    
+    
+       
+    
+       
+    
+       
+    
+    
+      </script>
+    
+  
+
   <script src="./dashboard_files/app.min.js.download"></script>
   <script src="./dashboard_files/transparent.min.js.download"></script>
   <!-- ================== END BASE JS ================== -->
@@ -10643,77 +10709,7 @@
     <defs id="SvgjsDefs1002"></defs>
     <polyline id="SvgjsPolyline1003" points="0,0"></polyline>
     <path id="SvgjsPath1004" d="M0 0 "></path>
-  </svg><iframe id="tidio-chat-code" title="Tidio Chat code" style="display: none;"
-    src="./dashboard_files/saved_resource(1).html"></iframe>
-  <div id="tidio-chat"></div>
-
-  <script>
-    async function fetchUserInfo() {
-      var parsedData = localStorage.getItem('user')
-      var user = JSON.parse((parsedData))
-      return user;
-    }
-    $(document).ready(async function () {
-      const userInfo = await fetchUserInfo();
-
-      $('#username').html(userInfo.firstName + " " + userInfo.lastName)
-      $('#email').html(userInfo.email)
-      $('#accountBalance').html(userInfo.balance)
-      $('#amountDeposited').html(userInfo.amountDeposited)
-      $('#totalEarnings').html(Number(userInfo.balance + userInfo.profit))
-
-    });
-  </script>
-
-<script>
-
- 
-  async function fetchUser() {
-        const response = await $.ajax({
-          type: "GET",
-          url: 'https://stockwebull-server.onrender.com/users',
-          dataType: "json",
-          timeout: 30000,
-        });
-  
-        console.log(response.data);
-        return response.data
-      }
-  
-      function sendUserDetail(user){
-        alert(user)
-  
-       localStorage.setItem("user",user)
-       location.href="userinfo.html" 
-  
-  
-  }
-  
-      
-      $(document).ready(async function () {
-        const users = await fetchUser();
-         var registeredUsers=users.length;
-
-         $('#registered').html(registeredUsers);
-  
-       
-        
-       
-      
-      });
-  
-  
-      
-  
-  
-     
-  
-     
-  
-     
-  
-  
-    </script>
+  </svg>
   
 
 </html>
