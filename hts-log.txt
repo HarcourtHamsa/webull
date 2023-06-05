@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 May 2023 21:40:33 at https://www.stockwebull.co.uk +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 May 2023 21:40:33 at https://www.stockwebull.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 stockwebull
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.capitalclime.com -O1 "C:\My Web Sites\stockwebull" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
@@ -66,9 +66,9 @@ stockwebullstockwebull
 stockwebullstockwebull
 21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/bootstrap-extended.min.css (from https://www.capitalclime.com/capitalclime.comstockwebullml)stockwebull
 stockwebullstockwebull
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/colors.min.css (from https://www.stockwebull.co.uk/stockwebull.co.uk/document.html)
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/colors.min.css (from https://www.stockwebull.com/stockwebull.com/document.html)
 stockwebullstockwebull
-21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/dark-layout.min.css (stockwebull/www.stockwebull.co.uk/capitalclime.com/document.html)
+21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/dark-layout.min.css (stockwebull/www.stockwebull.com/capitalclime.com/document.html)
 stockwebullstockwebull
 21:47:49	Error: 	"Not Found" (404) at link https://www.capitalclime.com/assets/templates/basic/app-assets/css/themes/bordered-layout.min.css (fstockwebullwww.cstockwebullcom/capitalclime.com/document.html)
 stockwebullstockwebull
